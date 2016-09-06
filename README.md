@@ -1,4 +1,4 @@
-use mysql2
+
 
 # Clockwork Raven [![Build Status](https://secure.travis-ci.org/twitter/clockworkraven.png)](http://travis-ci.org/twitter/clockworkraven) [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/twitter/clockworkraven)
 
